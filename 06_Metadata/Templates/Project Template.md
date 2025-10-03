@@ -18,12 +18,15 @@
 
 ## Key Resources
 <!-- Links to relevant notes, documents, people -->
+<!-- Research materials go in research/ subfolder -->
+<!-- Supporting files go in assets/ subfolder -->
 
 ## Progress Log
 <!-- Claude Code will help maintain this -->
 
 ### {{date}} - Project Initiated
-- Set up project structure
+- Set up project folder structure with subfolders
+- Created README.md as main project file
 - Initial research phase
 
 ## Open Questions

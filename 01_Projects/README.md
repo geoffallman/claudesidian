@@ -25,23 +25,25 @@ Projects are **time-bound efforts** with:
 
 ## Project Structure
 
-Each project should have:
+Each project should be organized as a **folder** containing:
 ```
 Project_Name/
 ├── README.md           # Project overview and status
-├── Research/          # Background materials
-├── Daily_Progress/    # Log of work sessions
-├── Drafts/           # Work in progress
-├── Resources/        # Supporting documents
-└── Output/          # Final deliverables
+├── research/          # Background materials, papers, references
+├── daily-progress/    # Log of work sessions
+├── drafts/           # Work in progress documents
+├── assets/           # Supporting files (images, PDFs, etc.)
+└── deliverables/     # Final outputs and completed work
 ```
+
+**Note**: Always create a folder for each project, not just a single markdown file. This allows for better organization of multiple file types and project assets.
 
 ## Claude Code Workflows
 
 ### Starting a Project
 ```
 Create a new project called [name] in 01_Projects.
-Set it up with the standard folder structure.
+Set it up as a folder with the standard subfolder structure.
 I'm in thinking mode - help me define objectives.
 ```
 
