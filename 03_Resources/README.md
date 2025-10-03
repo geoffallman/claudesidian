@@ -18,12 +18,14 @@ Resources are **reference materials** that:
 ├── Articles/          # Saved web content
 ├── Books/            # Book notes and summaries
 ├── Concepts/         # Evergreen idea notes
-├── People/           # Notable people and thinkers
+├── People/           # Personal and professional relationship context
 ├── Tools/            # Software, methods, frameworks
 ├── Quotes/           # Memorable quotes
 ├── Examples/         # Case studies, references
 └── Learning/         # Course notes, tutorials
 ```
+
+**Note**: The `People/` folder contains your personal context and relationship information for colleagues, clients, and external contacts - not general biographical information about notable figures (which would go in other topic folders).
 
 ### Good Resources
 - Tutorial on Python decorators
@@ -32,6 +34,8 @@ Resources are **reference materials** that:
 - Framework for decision-making
 - List of cognitive biases
 - Industry trend analysis
+- Personal working style documentation
+- Colleague collaboration notes
 
 ## Organization Principles
 
