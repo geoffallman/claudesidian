@@ -18,6 +18,7 @@ Resources are **reference materials** that:
 ├── Articles/          # Saved web content
 ├── Books/            # Book notes and summaries
 ├── Concepts/         # Evergreen idea notes
+├── Organizations/    # Company/org tech stacks, processes, operations
 ├── People/           # Personal and professional relationship context
 ├── Tools/            # Software, methods, frameworks
 ├── Quotes/           # Memorable quotes
@@ -25,7 +26,9 @@ Resources are **reference materials** that:
 └── Learning/         # Course notes, tutorials
 ```
 
-**Note**: The `People/` folder contains your personal context and relationship information for colleagues, clients, and external contacts - not general biographical information about notable figures (which would go in other topic folders).
+**Notes**: 
+- The `People/` folder contains your personal context and relationship information for colleagues, clients, and external contacts - not general biographical information about notable figures (which would go in other topic folders).
+- The `Organizations/` folder contains operational information about companies you work with - tech stacks, internal tools, processes, and organizational knowledge.
 
 ### Good Resources
 - Tutorial on Python decorators
@@ -36,6 +39,8 @@ Resources are **reference materials** that:
 - Industry trend analysis
 - Personal working style documentation
 - Colleague collaboration notes
+- Company tech stack documentation
+- Internal tool and process guides
 
 ## Organization Principles
 

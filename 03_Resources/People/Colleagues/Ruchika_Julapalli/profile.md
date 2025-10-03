@@ -2,7 +2,7 @@
 
 ## Role & Background
 - **Position:** SVP - Digital Experience & Technology
-- **Team/Department:** Technology Leadership
+- **Team/Department:** TECH - Strategy & Technology
 - **Reporting Relationship:** Manager
 - **Background:** [Add relevant professional background as you learn more]
 
@@ -31,7 +31,7 @@
 
 ## Personal Context
 - **Interests:** [Professional interests, industry focus areas]
-- **Communication Timezone:** [If relevant for scheduling]
+- **Communication Timezone:** Pacific Time Zone
 - **Other Notes:** [Anything else helpful for working together effectively]
 
 ## Meeting History
