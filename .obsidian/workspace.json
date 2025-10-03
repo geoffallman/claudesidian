@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/README.md",
-                "mode": "source",
-                "source": false
+                "file": "00_Inbox/README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "README"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/README.md",
+                "file": "00_Inbox/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Projects/README.md",
+                "file": "00_Inbox/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Projects/README.md",
+                "file": "00_Inbox/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,6 +171,9 @@
   },
   "active": "60be803f8ac8186b",
   "lastOpenFiles": [
+    "00_Inbox/Welcome.md",
+    "00_Inbox/README.md",
+    "01_Projects/README.md",
     "01_Projects/Synthetic User Testing/prototypes/README.md",
     "01_Projects/Synthetic User Testing/test-results/README.md",
     "01_Projects/Synthetic User Testing/research/README.md",
