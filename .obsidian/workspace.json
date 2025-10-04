@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/README.md",
+                "file": "03_Resources/People/Colleagues/Ruchika_Julapalli/profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "profile"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/README.md",
+                "file": "03_Resources/People/Colleagues/Ruchika_Julapalli/profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for profile"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Inbox/README.md",
+                "file": "03_Resources/People/Colleagues/Ruchika_Julapalli/profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from profile"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Inbox/README.md",
+                "file": "03_Resources/People/Colleagues/Ruchika_Julapalli/profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of profile"
             }
           }
         ]
@@ -169,10 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "60be803f8ac8186b",
+  "active": "1b8f72bd3056afc9",
   "lastOpenFiles": [
-    "03_Resources/Organizations/JCrew_Group/brands/jcrew.md",
+    "99_Processing/README.md",
+    "99_Processing/data",
+    "99_Processing/images",
+    "99_Processing/documents",
+    "99_Processing",
+    "03_Resources/People/00_Self/working-style.md",
+    "03_Resources/People/00_Self/professional-background.md",
+    "03_Resources/People/00_Self/context-for-ai.md",
     "03_Resources/Organizations/JCrew_Group/overview.md",
+    "00_Inbox/README.md",
+    "03_Resources/Organizations/JCrew_Group/brands/jcrew.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/meetings/README.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/meetings",
     "03_Resources/Organizations/JCrew_Group/brands/madewell.md",
@@ -180,32 +189,23 @@
     "03_Resources/People/Colleagues/README.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/profile.md",
     "03_Resources/People/00_Self/README.md",
-    "03_Resources/People/00_Self/working-style.md",
-    "03_Resources/People/00_Self/professional-background.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/meeting-notes/README.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/conversations/README.md",
     "03_Resources/Organizations/JCrew_Group/README.md",
     "03_Resources/Organizations/JCrew_Group/internal-tools.md",
     "03_Resources/Organizations/JCrew_Group/tech-stack.md",
     "03_Resources/People/Colleagues/Ruchika_Julapalli/projects/README.md",
-    "03_Resources/People/00_Self/context-for-ai.md",
-    "00_Inbox/README.md",
     "03_Resources/Organizations/JCrew_Group/processes",
     "03_Resources/Organizations/JCrew_Group/brands",
     "03_Resources/Organizations/JCrew_Group/architecture",
     "03_Resources/Organizations/JCrew_Group",
     "03_Resources/Organizations",
-    "03_Resources/People/Colleagues/Ruchika_Julapalli/conversations/README.md.tmp.13678.1759521643042",
-    "03_Resources/People/Colleagues/Ruchika_Julapalli/projects",
-    "03_Resources/People/Colleagues/Ruchika_Julapalli/meeting-notes",
-    "03_Resources/People/Colleagues/Ruchika_Julapalli/conversations",
     "03_Resources/People/External/README.md",
     "03_Resources/People/README.md",
     "00_Inbox/Welcome.md",
     "01_Projects/README.md",
     "01_Projects/Synthetic User Testing/prototypes/README.md",
     "01_Projects/Synthetic User Testing/test-results/README.md",
-    "01_Projects/Synthetic User Testing/research/README.md",
-    "01_Projects/Synthetic User Testing/personas/README.md"
+    "01_Projects/Synthetic User Testing/research/README.md"
   ]
 }
