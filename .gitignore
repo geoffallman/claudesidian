@@ -29,5 +29,8 @@ pnpm-lock.yaml
 # Temporary directories
 .tmp/
 
+# Processing folder - temporary files only
+99_Processing/
+
 # Never commit real API keys
 *_API_KEY
